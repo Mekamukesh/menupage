@@ -1,0 +1,33 @@
+.menupagebackground{
+    background-image: url("https://d2w1ef2ao9g8r9.cloudfront.net/otl-images/_1600x1064_crop_center-center_82_line/bar-food.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+.menupageheading{
+    color: rgba(0, 202, 138, 0.923);
+    text-align: center;
+    font-size: 30px;
+    padding-top: 0vh;
+    text-decoration: underline;
+    font-style: italic;
+}
+.menupageimages{
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.menuitem{
+    color: rgb(5, 146, 217);
+    margin-left: 10px;
+    font-weight: bold;
+}
+.button1{
+    margin-left: 90vh;
+    margin-top: 20px;
+}
+.button2{
+    margin-top: 20px;
+    margin-left: 10vh;
+}
